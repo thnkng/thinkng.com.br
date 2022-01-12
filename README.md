@@ -1,2 +1,2 @@
-# thnkng
+# Thinking Site
 Site
