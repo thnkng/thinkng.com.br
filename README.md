@@ -1,11 +1,11 @@
 # Thinking Site
 
  - Tecnologias
-  - Javascript (Vanilla)
-  - SaSS
-  - WebPack
-  - CSS
-  - HTML5
+   - Javascript (Vanilla)
+   - SaSS
+   - WebPack
+   - CSS
+   - HTML5
  - Instalação
  - Desenvolvimento
  - Deploy
